@@ -10,7 +10,7 @@
 
 ## Description
 
-This website is the thesis for the Bachelor's Degree in Multimedia Design and Interaction made by Sebastian A. Tamashiro, José Ignacio Pompé and Agustín Pérez Mestre, in UADE on 2019. It's just the Front-End without any Back-End.
+This website is the thesis for the Bachelor's Degree in Multimedia Design and Interaction made by [Sebastian A. Tamashiro](http://alotama.com/), [José Ignacio Pompé](https://www.behance.net/josepompe) and Agustín Pérez Mestre, in UADE on 2019. It's just the Front-End without any Back-End.
 
 “Contrastes” is the most famous photography magazine in Argentina for both professionals and amateurs. We chose to base our thesis in this magazine to create a new strategy of content transmediation. During the analysis phase, we surveyed more than 600 photographers; we found their thirst for knowledge, but that they don't believe in reading a magazine to obtain specific information about their career/hobby/interest/etc. Furthermore there are plenty of blogs and Facebook communities dedicated to photographers, but they don't provide the most in-depth information that the users want to find.
 
