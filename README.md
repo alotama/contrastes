@@ -1,4 +1,4 @@
-# Web base.
+# Contrastes's Website UI.
 
 ## Technology
 
@@ -10,12 +10,14 @@
 
 ## Description
 
-This website is the thesis of the bachelor's degree in multimedia design and interaction Sebastian A. Tamashiro, José Ignacio Pompé y Agustín Pérez Mestre, in UADE on 2019. It's just the Front-End without any Back-End.
+This website is the thesis for the Bachelor's Degree in Multimedia Design and Interaction made by Sebastian A. Tamashiro, José Ignacio Pompé and Agustín Pérez Mestre, in UADE on 2019. It's just the Front-End without any Back-End.
 
-Contrastes is the most famouse magazine in Argentina of photography for professionals and amateurs.
+“Contrastes” is the most famous photography magazine in Argentina for both professionals and amateurs. We chose to base our thesis in this magazine to create a new strategy of content transmediation. During the analysis phase, we surveyed more than 600 photographers; we found their thirst for knowledge, but that they don't believe in reading a magazine to obtain specific information about their career/hobby/interest/etc. Furthermore there are plenty of blogs and Facebook communities dedicated to photographers, but they don't provide the most in-depth information that the users want to find.
 
-During the analysis phase we surveyed more than 600 photographers and we founded they are thirsty for knowledge and they don't think in read a magazine for obtain specific information and on internet there are planty of blogs or Facebook groups dedicated to photographers but they don't provide the deepest information that the users wants to found.
+Based on this, we created an educational platform specialized for photographers where they can learn via a monthly or annual subscription, and get access to more than 150 courses. When a user starts a new course, they are automatically registered on a challenge related to their course, in an App called "Desafíos Contrastes". 
 
-Based on this, we created a education platform specialized on photographers where they can learn with a mounthly or annual suscription get access of more than 150 courses. When an user take a new course they are automacally registed on a challenges reffered to the course in an App called "Desafios Contrastes". 
+The photos that the user uploads are shown both in the app and in the image bank, called "Fotografías Contrastes", where the user can use his profile as a portfolio and offer his photos for free or by paying a certain amount of money.
 
-Those photos that the user uploads are shown both in the app and in the image bank, called "Fotografias Contrastes", where the user can use his profile as a portfolio and offer his photos for free or by paying a mount of money.
+Check "Desafios Contrastes" prototype: https://goo.gl/9o4kwn
+
+Website Base: @jimmyadaro.
