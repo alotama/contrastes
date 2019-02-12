@@ -18,6 +18,7 @@ Based on this, we created an educational platform specialized for photographers 
 
 The photos that the user uploads are shown both in the app and in the image bank, called "Fotografías Contrastes", where the user can use his profile as a portfolio and offer his photos for free or by paying a certain amount of money.
 
-Check "Desafios Contrastes" prototype: https://goo.gl/9o4kwn
+Check "Desafios Contrastes" prototype: [Figma Prototype](https://goo.gl/9o4kwn). 
 
-Website Base: @jimmyadaro.
+---
+Website Base: [@jimmyadaro](https://github.com/jimmyadaro/).
